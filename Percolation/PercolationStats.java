@@ -2,7 +2,8 @@
  * Author: Yuli Wei
  * 
  * Algorithm project: Percolation
- * 
+ * using stdlib.jar, which is part of algs4.jar
+ *
  * Compilation: javac PercolationStats.java
  * Execution: java PercolationStats N T
  * 
