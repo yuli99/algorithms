@@ -2,7 +2,7 @@
  * Name:  Yuli Wei
  * 
  * Algorithm project: Boggle Game Solver
- * Using stdlib.jar, which is part of algs4.jar
+ * Using stdlib.jar
  *
  * Compilation:  javac BoggleSolver.java
  * Execution:  
