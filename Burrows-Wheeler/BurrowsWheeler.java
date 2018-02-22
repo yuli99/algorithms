@@ -3,7 +3,7 @@
  * 
  * Algorithm Project: Burrows-Wheeler Data Compression
  * 
- * Using stdlib.jar, which is part of the algs4.jar
+ * Using stdlib.jar
  * 
  * Compilation:  javac BurrowWheeler.java
  * Execution:  
