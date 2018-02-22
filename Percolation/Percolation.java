@@ -2,13 +2,13 @@
  * Author: Yuli Wei
  * 
  * Algorithm project: Percolation
- * 
+ * Using the weighted quick-union algorithm WeightedQuickUnionUF.java from algs4.jar
  * Using a 1D boolean array to track the state of each cell 
  *  -- Open == true ; Blocked == false;
  *  -- first element refers to virtual-top 
  *  -- last element refers to virtual-bottom
- *  Using additional data structure to prevent "Wash-back" problem
- * 
+ * Using additional data structure to prevent "Wash-back" problem
+ *
  ***********************************************************************/
 
 
