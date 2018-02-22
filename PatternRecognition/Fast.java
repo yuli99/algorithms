@@ -3,7 +3,7 @@
  * Name:  Yuli Wei
  *
  * Algorithm Project: Pattern Recognition
- * Using stdlib.jar, which is part of the algs4.jar
+ * Using stdlib.jar
  *
  * Compilation:  javac Fast.java
  * Execution:   java Fast file.txt
